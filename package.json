@@ -1,0 +1,11 @@
+{
+  "name": "cloud_animation",
+  "version": "1.0.0",
+  "description": "Moving Cloud animation on Background image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divine Nature",
+  "license": "MIT"
+}
