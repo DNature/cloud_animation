@@ -2,10 +2,14 @@
   "name": "cloud_animation",
   "version": "1.0.0",
   "description": "Moving Cloud animation on Background image",
+  "homepage": "https://dnature.github.io/cloud_animation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Divine Nature",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
